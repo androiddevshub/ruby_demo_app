@@ -1,5 +1,5 @@
 class PostsController < ApplicationController
-
+  # function index
   def index
 
   end
